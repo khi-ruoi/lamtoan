@@ -8,7 +8,9 @@ using System.Net;
 using System.Text;
 using System.Windows.Forms;
 
-
+/// <summary>
+/// form làm toán thieu nhi
+/// </summary>
 namespace LamToan
 {
     public partial class frmLogin : Form
